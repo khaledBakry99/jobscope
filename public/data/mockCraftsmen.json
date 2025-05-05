@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "name": "أحمد محمد",
+    "profession": "كهربائي",
+    "specialization": "تمديدات منزلية",
+    "rating": 4.8,
+    "location": { "lng": 36.3, "lat": 33.52 },
+    "latitude": 33.52,
+    "longitude": 36.3,
+    "phone": "+963 912 345 678",
+    "bio": "خبرة 15 عام في مجال التمديدات الكهربائية المنزلية والصناعية",
+    "available": true,
+    "workRadius": 10,
+    "reviewCount": 24,
+    "address": "المزة، دمشق",
+    "image": "https://randomuser.me/api/portraits/men/1.jpg",
+    "gallery": [
+      "https://images.unsplash.com/photo-1621905251189-08b45d6a269e",
+      "https://images.unsplash.com/photo-1558538337-aab544368de8"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "محمود علي",
+    "profession": "سباك",
+    "specialization": "صيانة وتركيب",
+    "rating": 4.5,
+    "location": { "lng": 36.28, "lat": 33.51 },
+    "latitude": 33.51,
+    "longitude": 36.28,
+    "phone": "+963 934 567 890",
+    "bio": "متخصص في أعمال السباكة وإصلاح تسربات المياه وتركيب الأدوات الصحية",
+    "available": true,
+    "workRadius": 8,
+    "reviewCount": 18,
+    "address": "المالكي، دمشق",
+    "image": "https://randomuser.me/api/portraits/men/2.jpg",
+    "gallery": [
+      "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1",
+      "https://images.unsplash.com/photo-1585704032915-c3400ca199e7"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "خالد عبد الرحمن",
+    "profession": "نجار",
+    "specialization": "أثاث منزلي",
+    "rating": 4.7,
+    "location": { "lng": 36.29, "lat": 33.53 },
+    "latitude": 33.53,
+    "longitude": 36.29,
+    "phone": "+963 956 789 012",
+    "bio": "نجار محترف متخصص في صناعة وتصليح الأثاث المنزلي بجودة عالية",
+    "available": true,
+    "workRadius": 12,
+    "reviewCount": 22,
+    "address": "أبو رمانة، دمشق",
+    "image": "https://randomuser.me/api/portraits/men/3.jpg",
+    "gallery": [
+      "https://images.unsplash.com/photo-1565793298595-6a879b1d9492",
+      "https://images.unsplash.com/photo-1622150162958-6211e5427b15"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "سامر حسن",
+    "profession": "دهان",
+    "specialization": "دهانات داخلية",
+    "rating": 4.6,
+    "location": { "lng": 36.31, "lat": 33.5 },
+    "latitude": 33.5,
+    "longitude": 36.31,
+    "phone": "+963 978 901 234",
+    "bio": "خبرة 10 سنوات في مجال الدهانات الداخلية والديكورات الحديثة",
+    "available": true,
+    "workRadius": 15,
+    "reviewCount": 16,
+    "address": "الروضة، دمشق",
+    "image": "https://randomuser.me/api/portraits/men/4.jpg",
+    "gallery": [
+      "https://images.unsplash.com/photo-1562259929-b4e1fd3aef09",
+      "https://images.unsplash.com/photo-1589939705384-5185137a7f0f"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "عمر محمود",
+    "profession": "كهربائي",
+    "specialization": "صيانة كهربائية",
+    "rating": 4.3,
+    "location": { "lng": 36.32, "lat": 33.54 },
+    "latitude": 33.54,
+    "longitude": 36.32,
+    "phone": "+963 990 123 456",
+    "bio": "متخصص في صيانة وإصلاح الأعطال الكهربائية المنزلية والتجارية",
+    "available": true,
+    "workRadius": 7,
+    "reviewCount": 12,
+    "address": "المهاجرين، دمشق",
+    "image": "https://randomuser.me/api/portraits/men/5.jpg",
+    "gallery": [
+      "https://images.unsplash.com/photo-1555963966-b7ae5404b6ed",
+      "https://images.unsplash.com/photo-1597331900882-f8247e1f1afa"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "رامي سعيد",
+    "profession": "سباك",
+    "specialization": "معالجة تسربات",
+    "rating": 4.9,
+    "location": { "lng": 36.27, "lat": 33.49 },
+    "latitude": 33.49,
+    "longitude": 36.27,
+    "phone": "+963 912 345 678",
+    "bio": "متخصص في كشف وإصلاح تسربات المياه باستخدام أحدث التقنيات",
+    "available": true,
+    "workRadius": 10,
+    "reviewCount": 28,
+    "address": "كفرسوسة، دمشق",
+    "image": "https://randomuser.me/api/portraits/men/6.jpg",
+    "gallery": [
+      "https://images.unsplash.com/photo-1594631252845-29fc4cc8cde9",
+      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "فادي خليل",
+    "profession": "نجار",
+    "specialization": "أبواب ونوافذ",
+    "rating": 4.4,
+    "location": { "lng": 36.33, "lat": 33.51 },
+    "latitude": 33.51,
+    "longitude": 36.33,
+    "phone": "+963 934 567 890",
+    "bio": "متخصص في تصنيع وتركيب الأبواب والنوافذ الخشبية بجودة عالية",
+    "available": true,
+    "workRadius": 9,
+    "reviewCount": 14,
+    "address": "القصاع، دمشق",
+    "image": "https://randomuser.me/api/portraits/men/7.jpg",
+    "gallery": [
+      "https://images.unsplash.com/photo-1601058268499-e52e4cea2a6b",
+      "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "باسل عمر",
+    "profession": "دهان",
+    "specialization": "دهانات خارجية",
+    "rating": 4.2,
+    "location": { "lng": 36.29, "lat": 33.48 },
+    "latitude": 33.48,
+    "longitude": 36.29,
+    "phone": "+963 956 789 012",
+    "bio": "متخصص في الدهانات الخارجية المقاومة للعوامل الجوية والرطوبة",
+    "available": true,
+    "workRadius": 20,
+    "reviewCount": 9,
+    "address": "الميدان، دمشق",
+    "image": "https://randomuser.me/api/portraits/men/8.jpg",
+    "gallery": [
+      "https://images.unsplash.com/photo-1595814433015-e6f5ce69614e",
+      "https://images.unsplash.com/photo-1584622781564-1d987f7333c1"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "كريم فارس",
+    "profession": "مصمم ديكور",
+    "specialization": "تصميم داخلي",
+    "rating": 4.8,
+    "location": { "lng": 36.31, "lat": 33.52 },
+    "latitude": 33.52,
+    "longitude": 36.31,
+    "phone": "+963 978 901 234",
+    "bio": "مصمم ديكور داخلي محترف متخصص في تصميم المساحات السكنية والتجارية",
+    "available": true,
+    "workRadius": 15,
+    "reviewCount": 20,
+    "address": "الشعلان، دمشق",
+    "image": "https://randomuser.me/api/portraits/men/9.jpg",
+    "gallery": [
+      "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6",
+      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "هدى سليمان",
+    "profession": "مصممة ديكور",
+    "specialization": "تصميم مساحات تجارية",
+    "rating": 4.6,
+    "location": { "lng": 36.3, "lat": 33.53 },
+    "latitude": 33.53,
+    "longitude": 36.3,
+    "phone": "+963 956 789 012",
+    "bio": "مصممة ديكور محترفة متخصصة في تصميم المساحات التجارية والمكاتب",
+    "available": true,
+    "workRadius": 10,
+    "reviewCount": 17,
+    "address": "الصالحية، دمشق",
+    "image": "https://randomuser.me/api/portraits/women/2.jpg",
+    "gallery": [
+      "https://images.unsplash.com/photo-1615529328331-f8917597711f",
+      "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6"
+    ]
+  }
+]
