@@ -1,0 +1,16 @@
+/* تأثير وميض للحقول التي تحتوي على أخطاء */
+@keyframes error-flash {
+  0%, 100% {
+    border-color: #ef4444;
+    box-shadow: 0 0 0 0 rgba(239, 68, 68, 0.7);
+  }
+  50% {
+    border-color: #ef4444;
+    box-shadow: 0 0 0 4px rgba(239, 68, 68, 0.3);
+  }
+}
+
+.error-flash {
+  animation: error-flash 1.5s cubic-bezier(0.4, 0, 0.6, 1) 2;
+  border-color: #ef4444 !important;
+}
